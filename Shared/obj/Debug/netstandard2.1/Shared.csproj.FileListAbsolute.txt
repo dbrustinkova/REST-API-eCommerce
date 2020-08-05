@@ -1,0 +1,9 @@
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\bin\Debug\netstandard2.1\AppGr8.WebApiECommerce.Shared.deps.json
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\bin\Debug\netstandard2.1\AppGr8.WebApiECommerce.Shared.dll
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\bin\Debug\netstandard2.1\AppGr8.WebApiECommerce.Shared.pdb
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\obj\Debug\netstandard2.1\Shared.csprojAssemblyReference.cache
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfoInputs.cache
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\obj\Debug\netstandard2.1\Shared.AssemblyInfo.cs
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\obj\Debug\netstandard2.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\obj\Debug\netstandard2.1\AppGr8.WebApiECommerce.Shared.dll
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Shared\obj\Debug\netstandard2.1\AppGr8.WebApiECommerce.Shared.pdb
