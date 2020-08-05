@@ -1,0 +1,9 @@
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\bin\Debug\netstandard2.1\AppGr8.WebApiECommerce.Services.deps.json
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\bin\Debug\netstandard2.1\AppGr8.WebApiECommerce.Services.dll
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\bin\Debug\netstandard2.1\AppGr8.WebApiECommerce.Services.pdb
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\obj\Debug\netstandard2.1\Services.AssemblyInfoInputs.cache
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\obj\Debug\netstandard2.1\Services.AssemblyInfo.cs
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\obj\Debug\netstandard2.1\AppGr8.WebApiECommerce.Services.dll
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\obj\Debug\netstandard2.1\AppGr8.WebApiECommerce.Services.pdb
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\obj\Debug\netstandard2.1\Services.csprojAssemblyReference.cache
+C:\Users\Desi\Desktop\AppGr8\WebApiECommerce\Services\obj\Debug\netstandard2.1\Services.csproj.CoreCompileInputs.cache
